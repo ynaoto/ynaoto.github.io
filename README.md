@@ -15,7 +15,7 @@ CALayer の振る舞いがなかなか理解できなかったので、学習用
 ![CALayer](./my_images/CALayer.png)
 
 #### [Foldable](https://github.com/ynaoto/iOSFoldable)
-画像折り畳んでみたくて作りました。UIImageView の拡張で、設定された画像を上下左右に４分割する QuadImageView、それを折り畳めるようにする FoldableQuadImageView が含まれています。
+画像を折り畳んでみたくて作りました。UIImageView の拡張で、設定された画像を上下左右に４分割する QuadImageView、それを折り畳めるようにする FoldableQuadImageView が含まれています。
 (画像データは「東北ずん子」サイト様 (http://zunko.jp/) のものを利用させて頂いています。この場を借りて御礼申し上げます)
 
 ![Foldable](./my_images/Foldable.png)
