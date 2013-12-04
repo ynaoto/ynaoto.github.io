@@ -417,3 +417,7 @@ Small Device Styles
   }
 
 }
+
+img[alt=CALayer] {
+    width: 100px;
+}
