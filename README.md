@@ -23,7 +23,7 @@ CALayer の振る舞いがなかなか理解できなかったので、学習用
 #### [SKSpriteBlendMode](https://github.com/ynaoto/iOSSKSpriteBlendMode)
 iOS 7 よりサポートされている Sprite Kit における SKSpriteNode ではブレンドモードが設定できます。これの動作を理解するために作りました。
 
-![SKSpriteBlendMode](./my_images/SKSpriteBlendMode.png)
+![SKSpriteBlendMode](https://github.com/ynaoto/iOSSKSpriteBlendMode/raw/master/snapshot.png)
 
 #### [CIFilters](https://github.com/ynaoto/iOSCIFilters)
 Core Image Filter の学習用サンプルです。
