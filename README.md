@@ -12,7 +12,7 @@
 #### [CALayer](https://github.com/ynaoto/iOSCALayer)
 CALayer の振る舞いがなかなか理解できなかったので、学習用に作りました。
 
-![CALayer](https://raw.github.com/ynaoto/iOSCALayer/master/screenshot.png)
+![CALayer](https://github.com/ynaoto/iOSCALayer/raw/master/screenshot.png)
 
 #### [Foldable](https://github.com/ynaoto/iOSFoldable)
 画像を折り畳んでみたくて作りました。UIImageView の拡張で、設定された画像を上下左右に４分割する QuadImageView、それを折り畳めるようにする FoldableQuadImageView が含まれています。
