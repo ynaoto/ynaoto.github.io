@@ -27,11 +27,12 @@ iOS 7 よりサポートされている Sprite Kit における SKSpriteNode で
 
 #### [CIFilters](https://github.com/ynaoto/iOSCIFilters)
 Core Image Filter の学習用サンプルです。
+
+![CIFilters](https://github.com/ynaoto/iOSCIFilters/raw/master/snapshot.png)
+
 とりあえず inputImage, backgroudImage, targetImage, maskImage を取り扱うようにしました。
 他の入力値は追って作ります。
 (画像データは「東北ずん子」サイト様 (http://zunko.jp/) のものを利用させて頂いています。この場を借りて御礼申し上げます)
-
-![CIFilters](./my_images/CIFilters.png)
 
 ### [Public](http://ynaoto.github.io/public)
 ### [Privacy Policy](http://ynaoto.github.io/policy/)
