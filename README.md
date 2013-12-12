@@ -20,6 +20,11 @@ CALayer の振る舞いがなかなか理解できなかったので、学習用
 
 ![Foldable](./my_images/Foldable.png)
 
+#### [SKSpriteBlendMode](https://github.com/ynaoto/iOSSKSpriteBlendMode)
+iOS 7 よりサポートされている Sprite Kit における SKSpriteNode ではブレンドモードが設定できます。これの動作を理解するために作りました。
+
+![SKSpriteBlendMode](./my_images/SKSpriteBlendMode.png)
+
 ### [Public](http://ynaoto.github.io/public)
 ### [Privacy Policy](http://ynaoto.github.io/policy/)
 
