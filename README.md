@@ -10,23 +10,24 @@
 ### iOS samples
 
 #### [CALayer](https://github.com/ynaoto/iOSCALayer)
-CALayer の振る舞いがなかなか理解できなかったので、学習用に作りました。
+CALayer の振る舞い学習用サンプルです。
 
 ![CALayer](https://github.com/ynaoto/iOSCALayer/raw/master/screenshot.png)
 
 #### [Foldable](https://github.com/ynaoto/iOSFoldable)
-画像を折り畳んでみたくて作りました。UIImageView の拡張で、設定された画像を上下左右に４分割する QuadImageView、それを折り畳めるようにする FoldableQuadImageView が含まれています。
-(画像データは「東北ずん子」サイト様 (http://zunko.jp/) のものを利用させて頂いています。この場を借りて御礼申し上げます)
+画像を折り畳んでみたくて作りました。
 
 ![Foldable](https://github.com/ynaoto/iOSFoldable/raw/master/snapshot.png)
 
+(画像データは「東北ずん子」サイト様 (http://zunko.jp/) のものを利用させて頂いています。この場を借りて御礼申し上げます)
+
 #### [SKSpriteBlendMode](https://github.com/ynaoto/iOSSKSpriteBlendMode)
-iOS 7 よりサポートされている Sprite Kit における SKSpriteNode ではブレンドモードが設定できます。これの動作を理解するために作りました。
+SKSpriteNode のブレンドモードサンプルです。
 
 ![SKSpriteBlendMode](https://github.com/ynaoto/iOSSKSpriteBlendMode/raw/master/snapshot.png)
 
 #### [CIFilters](https://github.com/ynaoto/iOSCIFilters)
-Core Image Filter の学習用サンプルです。
+Core Image Filter サンプルです。
 
 ![CIFilters](https://github.com/ynaoto/iOSCIFilters/raw/master/snapshot.png)
 
