@@ -43,6 +43,12 @@ CITriangleKaleidoscope のサンプルです。
 
 (画像データは「東北ずん子」サイト様 (http://zunko.jp/) のものを利用させて頂いています。この場を借りて御礼申し上げます)
 
+#### [AudioMeasurement](https://github.com/ynaoto/iOSAudioMeasurement)
+マイク入力の、とても短いサンプルです。
+実機で動きます。シミュレータだと動きません。
+
+![AudioMeasurement](https://github.com/ynaoto/iOSAudioMeasurement/raw/master/snapshot.png)
+
 ### [Public](http://ynaoto.github.io/public)
 ### [Privacy Policy](http://ynaoto.github.io/policy/)
 
