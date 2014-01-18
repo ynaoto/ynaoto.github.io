@@ -1,11 +1,13 @@
 ## Welcome to my GitHub Pages
 
 ![どんぐりさがし](./my_images/Squirrel_icon.png)
-[どんぐりさがし](https://itunes.apple.com/jp/app/o-shou-yan-lian-xi-dongurisagashi/id723602722?mt=8)
+[どんぐりさがし](https://itunes.apple.com/jp/app/o-shou-yan-lian-xi-dongurisagashi/id723602722)
 ![もぐらさがし](./my_images/Mogura_icon.png)
-[もぐらさがし](https://itunes.apple.com/jp/app/o-shou-yan-lian-xi-mogurasagashi/id723451398?mt=8)
+[もぐらさがし](https://itunes.apple.com/jp/app/o-shou-yan-lian-xi-mogurasagashi/id723451398)
 ![+8%暗算練習](./my_images/Eight_icon.png)
-[+8%暗算練習](https://itunes.apple.com/jp/app/+8-an-suan-lian-xi/id723334393?mt=8)
+[+8%暗算練習](https://itunes.apple.com/jp/app/+8-an-suan-lian-xi/id723334393)
+![マンゲカメラ](./my_images/KaleidoCamera_icon.png)
+[マンゲカメラ](https://itunes.apple.com/jp/app/mangekamera/id796316390)
 
 ### iOS samples
 
@@ -31,9 +33,23 @@ Core Image Filter サンプルです。
 
 ![CIFilters](https://github.com/ynaoto/iOSCIFilters/raw/master/snapshot.png)
 
-とりあえず inputImage, backgroudImage, targetImage, maskImage と、NSNumber クラスの入力値を取り扱うようにしました。
-他の入力値(CIVector等)は追って作ります。
+とりあえず inputImage, backgroudImage, targetImage, maskImage、NSNumber、CIVector クラスの入力値を取り扱うようにしました。
+他の入力値(NSValue等)は、その存在のみを表示します。
 (画像データは「東北ずん子」サイト様 (http://zunko.jp/) のものを利用させて頂いています。この場を借りて御礼申し上げます)
+
+#### [CITriangleKaleidoscope](https://github.com/ynaoto/iOSCITriangleKaleidoscope)
+CITriangleKaleidoscope のサンプルです。
+実機だとそれなりに動きますが、シミュレータだと遅いです(Xcode 5.0.2)。
+
+![CITriangleKaleidoscope](https://github.com/ynaoto/iOSCITriangleKaleidoscope/raw/master/snapshot.png)
+
+(画像データは「東北ずん子」サイト様 (http://zunko.jp/) のものを利用させて頂いています。この場を借りて御礼申し上げます)
+
+#### [AudioMeasurement](https://github.com/ynaoto/iOSAudioMeasurement)
+マイク入力のとても短いサンプルです。
+実機で動きます。シミュレータだと動きません。
+
+![AudioMeasurement](https://github.com/ynaoto/iOSAudioMeasurement/raw/master/snapshot.png)
 
 ### [Public](http://ynaoto.github.io/public)
 ### [Privacy Policy](http://ynaoto.github.io/policy/)
