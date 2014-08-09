@@ -3,17 +3,6 @@
 <title>p5 test</title>
 <script src="https://github.com/lmccart/p5.js/releases/download/0.3.2/p5.min.js"></script>
 <script>
-var Ball = function() {
-  this.x = random(0, width-1);
-  this.y = random(0, height-1);
-  this.vx = this.vy = 0;
-  this.draw = function() {
-    var v = mag(this.vx, this.vy);
-    fill(map(v, 0, 5, 0, 0.8), 1, 1, 0.5);
-    ellipse(this.x, this.y, 10, 10);
-  }
-};
-
 var balls = [];
 var cx, cy;
 
@@ -22,7 +11,12 @@ function setup() {
   colorMode(HSB, 1, 1, 1, 1);
   noStroke();
   for (var i = 0; i < 2000; i++) {
-    balls.push(new Ball());
+    balls.push({
+      x: random(0, width-1),
+      y: random(0, height-1),
+      vx: 0,
+      vy: 0,
+    });
   }
   cx = width/2;
   cy = height/2;
@@ -32,7 +26,9 @@ function draw() {
   fill(0, 0, 0, 0.3);
   rect(0, 0, width, height);
   balls.forEach(function(ball) {
-    ball.draw();
+    var v = mag(ball.vx, ball.vy);
+    fill(map(v, 0, 5, 0, 0.8), 1, 1, 0.5);
+    ellipse(ball.x, ball.y, 10, 10);
     ball.x += ball.vx;
     ball.y += ball.vy;
     var dx = cx - ball.x;
