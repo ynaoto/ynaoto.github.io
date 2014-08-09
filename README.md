@@ -9,6 +9,10 @@
 ![マンゲカメラ](./my_images/KaleidoCamera_icon.png)
 [マンゲカメラ](https://itunes.apple.com/jp/app/mangekamera/id796316390)
 
+### test
+
+#### [P5 test](https://raw.githubusercontent.com/ynaoto/public/master/processing/p5test.html)
+
 ### iOS samples
 
 #### [CALayer](https://github.com/ynaoto/iOSCALayer)
@@ -50,6 +54,11 @@ CITriangleKaleidoscope のサンプルです。
 実機で動きます。シミュレータだと動きません。
 
 ![AudioMeasurement](https://github.com/ynaoto/iOSAudioMeasurement/raw/master/snapshot.png)
+
+#### [SwiftBreakout](https://github.com/ynaoto/SwiftBreakout)
+Swift で記述したブロック崩しもどきです。
+
+![SwiftBreakout](https://github.com/ynaoto/SwiftBreakout/raw/master/screenShot.png)
 
 ### [Public](http://ynaoto.github.io/public)
 ### [Privacy Policy](http://ynaoto.github.io/policy/)
