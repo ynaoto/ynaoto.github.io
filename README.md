@@ -9,8 +9,6 @@
 ![マンゲカメラ](./my_images/KaleidoCamera_icon.png)
 [マンゲカメラ](https://itunes.apple.com/jp/app/mangekamera/id796316390)
 
-### test
-
 #### [P5 test](p5test.html)
 
 ### iOS samples
