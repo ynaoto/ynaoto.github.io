@@ -12,7 +12,7 @@
 ### P5.js (http://p5js.org/) samples
 
 #### [p5test](p5test.html)
-P5.js を試しに使ってみました。
+P5.js を試しに使ってみました。ときどきクリックすると面白い動きをします。
 
 ![p5test](p5test.png)
 
