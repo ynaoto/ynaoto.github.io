@@ -2,9 +2,11 @@
 <meta charset="UTF-8">
 <title>p5 test</title>
 <script src="https://github.com/lmccart/p5.js/releases/download/0.3.2/p5.min.js"></script>
+<script src="https://raw.githubusercontent.com/lmccart/p5.js/master/lib/addons/p5.dom.js"></script>
 <script>
 var balls = [];
 var cx, cy;
+var slider, label;
 
 function setup() {
   createCanvas(640, 480);
@@ -20,6 +22,8 @@ function setup() {
   }
   cx = width/2;
   cy = height/2;
+  slider = createSlider(0, 10, 1.2);
+  label = createSpan(slider.value());
 }
 
 function draw() {
@@ -34,13 +38,17 @@ function draw() {
     var dx = cx - ball.x;
     var dy = cy - ball.y;
     var d2 = dx*dx + dy*dy;
-    ball.vx += 1.2*dx/d2;
-    ball.vy += 1.2*dy/d2;
+    var a = slider.value();
+    label.html(a);
+    ball.vx += a*dx/d2;
+    ball.vy += a*dy/d2;
   });
 }
 
 function mousePressed() {
-  cx = mouseX;
-  cy = mouseY;
+  if (0 < mouseX && mouseX < width && 0 < mouseY && mouseY < height) {
+    cx = mouseX;
+    cy = mouseY;
+  }
 }
 </script>
