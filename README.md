@@ -11,7 +11,10 @@
 
 ### P5.js (http://p5js.org/) samples
 
-#### [P5 test](p5test.html)
+#### [p5test](p5test.html)
+P5.js を試しに使ってみました。ときどきクリックすると面白い動きをします。
+
+![p5test](p5test.png)
 
 ### iOS samples
 
