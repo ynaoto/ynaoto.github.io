@@ -63,6 +63,11 @@ Swift で記述したブロック崩しもどきです。
 
 ![SwiftBreakout](https://github.com/ynaoto/SwiftBreakout/raw/master/screenShot.png)
 
+#### [GlVortex](https://github.com/ynaoto/iOSGlVortex)
+GL と Core Image Filter の組み合わせサンプルです。
+
+![GlVortex](https://github.com/ynaoto/iOSGlVortex/raw/master/screenshot.png)
+
 ### [Public](http://ynaoto.github.io/public)
 ### [Privacy Policy](http://ynaoto.github.io/policy/)
 
