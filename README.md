@@ -66,7 +66,7 @@ Swift で記述したブロック崩しもどきです。
 #### [GlVortex](https://github.com/ynaoto/iOSGlVortex)
 GL と Core Image Filter の組み合わせサンプルです。
 
-![GlVortex](https://github.com/ynaoto/iOSGlVortex/raw/master/screenshot.png)
+![GlVortex](https://raw.githubusercontent.com/ynaoto/iOSGlVortex/master/snapshot.png)
 
 ### [Public](http://ynaoto.github.io/public)
 ### [Privacy Policy](http://ynaoto.github.io/policy/)
