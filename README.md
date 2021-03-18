@@ -12,7 +12,7 @@
 ### Oculus Quest Apps
 
 #### [NoMeN #1 VR]
-実験ユニット![日々の泡](https://www.youtube.com/channel/UCIiZ61rR8bDM1ZXa8hDx5TA) による映像作品「「NoMeN」#1 『パスタとごはん』」をVR化してみました。
+実験ユニット[日々の泡](https://www.youtube.com/channel/UCIiZ61rR8bDM1ZXa8hDx5TA) による映像作品「「NoMeN」#1 『パスタとごはん』」をVR化してみました。
 
 ![NoMeN #1 VR](NoMeN1VR.png)
 オリジナル版：https://www.youtube.com/watch?v=xn189MjfmIY
