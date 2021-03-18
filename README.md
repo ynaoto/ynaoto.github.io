@@ -68,7 +68,7 @@ GL と Core Image Filter の組み合わせサンプルです。
 
 ![GlVortex](https://raw.githubusercontent.com/ynaoto/iOSGlVortex/master/snapshot.png)
 
-### [Public](http://ynaoto.github.io/public)
+### [Public](https://github.com/ynaoto/public)
 ### [Privacy Policy](http://ynaoto.github.io/policy/)
 
 ### Support or Contact
